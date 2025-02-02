@@ -70,7 +70,7 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllMiightLegend&show_icons=true&theme=radical" alt="GitHub Stats" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinjoy Sen Chowdhury&show_icons=true&theme=radical" alt="GitHub Stats" width="450px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllMiightLegend&theme=radical" alt="GitHub Streak" width="450px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllMiightLegend&layout=compact&theme=radical" alt="Top Languages" width="450px"/>
 </p>
