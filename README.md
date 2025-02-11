@@ -15,7 +15,7 @@
 📚 **AWS Academy Graduate | Web3 & DeFi Enthusiast**  
 💬 **Ask me about:** React.js, Next.js, Node.js, TensorFlow, Solana, DeFi, Web3  
 📩 **Contact:** srinjoysen123@gmail.com  
-🌐 **Portfolio:** [3D Portfolio](https://3-d-portfolio-gamma-six.vercel.app/)  
+🌐 **Portfolio:** [Portfolio](https://3-d-portfolio-gamma-six.vercel.app/)  
 
 ---
 
